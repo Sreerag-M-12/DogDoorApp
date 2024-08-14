@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\bin\Debug\net8.0\DogDoorApp.exe
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\bin\Debug\net8.0\DogDoorApp.deps.json
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\bin\Debug\net8.0\DogDoorApp.runtimeconfig.json
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\bin\Debug\net8.0\DogDoorApp.dll
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\bin\Debug\net8.0\DogDoorApp.pdb
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\DogDoorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\DogDoorApp.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\DogDoorApp.AssemblyInfo.cs
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\DogDoorApp.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\DogDoorApp.dll
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\refint\DogDoorApp.dll
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\DogDoorApp.pdb
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\DogDoorApp.genruntimeconfig.cache
+C:\Users\sreerag.babu\source\repos\DogDoorApp\DogDoorApp\obj\Debug\net8.0\ref\DogDoorApp.dll
